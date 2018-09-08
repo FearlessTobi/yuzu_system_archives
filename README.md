@@ -6,7 +6,7 @@ Since the ones from the Switch are copyrighted this creates custom system archiv
 
 Currently only the general shared font archive is supported.
 
-FontStandard, FontKorean & FontChineseSimplified are using Open Sans Regular
-FontChineseTraditional are using Open Sans Light
-FontNintendoExtended are using Roboto Medium
-FontExtendedChineseSimplified are using Source Sans Pro Regular
+FontStandard, FontKorean & FontChineseSimplified are generated using Open Sans Regular.
+FontChineseTraditional is using Open Sans Light.
+FontNintendoExtended is using Roboto Medium.
+FontExtendedChineseSimplified is using Source Sans Pro Regular.
